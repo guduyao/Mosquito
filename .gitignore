@@ -1,0 +1,10 @@
+test
+logs/last1.h5
+model_data/last1.h5
+model_data/yolo_weights.h5
+VOCdevkit/VOC2007/Annotations
+VOCdevkit/VOC2007/JPEGImages
+README.md
+mosquito
+img
+pic
